@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652576377612",
+    "project_id": "sharmy-e5e45",
+    "storage_bucket": "sharmy-e5e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652576377612:android:cdbaf523777e8991271729",
+        "android_client_info": {
+          "package_name": "com.example.sharmyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652576377612-m47cikpchekbf1qa52pu1lt63gm38lfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharmyapplication",
+            "certificate_hash": "808cdf10083a28f880f8b72da256784178bf613f"
+          }
+        },
+        {
+          "client_id": "652576377612-dsihl073mce4mtdfjimplv4hqi5cedv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9bvbabUef9PCzNaDbHpALVW7F86VHDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652576377612-dsihl073mce4mtdfjimplv4hqi5cedv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
